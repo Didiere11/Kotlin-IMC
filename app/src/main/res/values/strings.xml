@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">myaplication2</string>
+    <string name="hola">Hello World!</string>
+    <string name="titulo">Calculate of IMC</string>
+    <string name="peso">weight(KG)</string>
+    <string name="altura">Height(MTS)</string>
+    <string name="calcula">Calculate</string>
+</resources>
